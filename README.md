@@ -2,7 +2,7 @@
 
 This is project for rib fracture segmentation.(UNet-based)
 
-Required packages: PyTorch Python numpuy
+Required packages: PyTorch Python numpy
 
 Train--part of the whole code:
 
